@@ -136,7 +136,7 @@
             </trans-unit>
             <trans-unit id="label.theme.branding.mini">
                 <source>label.theme.branding.mini</source>
-                <target>Mini Logo (zugeklappte Seitenleiste)</target>
+                <target>Mini-Logo (Initialen), zugeklappte Seitenleiste (Text, max. 3 Zeichen)</target>
             </trans-unit>
             <trans-unit id="label.theme.branding.title">
                 <source>label.theme.branding.title</source>

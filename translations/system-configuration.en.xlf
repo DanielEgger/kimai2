@@ -136,7 +136,7 @@
             </trans-unit>
             <trans-unit id="label.theme.branding.mini">
                 <source>label.theme.branding.mini</source>
-                <target>Mini Logo (collapsed sidebar)</target>
+                <target>Mini logo (initials), collapsed sidebar (text-only, max. 3 characters)</target>
             </trans-unit>
             <trans-unit id="label.theme.branding.title">
                 <source>label.theme.branding.title</source>
